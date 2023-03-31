@@ -33,7 +33,7 @@ python-magic==0.4.22
 pyyaml>=5.4.1
 pyzbar==0.1.8
 rarfile==4.0
-redis==3.5.3
+redis==4.4.4
 requests==2.25.1
 rpmfile==1.0.8
 signify==0.3.0
